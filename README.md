@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Konstantinos Christakis</h1>
 <h3 align="center">An undergraduate student at ECE NTUA</h3>
 
-- 🌱 I’m currently learning **SaaS technologies**
-
 - 📫 How to reach me: **kxristakis@outlook.com**
 
 
